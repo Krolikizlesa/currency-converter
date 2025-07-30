@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # currency-converter
 Тестовое задание, кейс «Одностраничное приложение (SPA) для конвертирования валют»
+[Live Demo](https://krolikizlesa.github.io/currency-converter)
+
