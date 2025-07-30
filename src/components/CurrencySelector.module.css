@@ -1,0 +1,24 @@
+.container {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.select {
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.select:focus {
+  border-color: #3498db;
+  outline: none;
+}
